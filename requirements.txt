@@ -4,7 +4,7 @@ beautifulsoup4==4.8.1
 certifi==2019.9.11
 cffi==1.12.3
 chardet==3.0.4
-cryptography==2.7
+cryptography==39.0.1
 Django==2.2.6
 django-annoying==0.10.5
 django-blog-zinnia==0.20
